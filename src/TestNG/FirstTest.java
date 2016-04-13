@@ -18,5 +18,7 @@ public class FirstTest {
   public void afterTest() {
 	  System.out.print("@AfterTest");
   }
-
+/*
+ * ÖÜÇïÏã¸ü¸Ä
+ * */
 }
